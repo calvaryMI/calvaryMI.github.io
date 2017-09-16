@@ -131,10 +131,10 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "6",
-            "paddingBottom": "6",
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
             "parallax": true,
@@ -146,7 +146,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
@@ -155,7 +155,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.facebook.com/CalvaryMinistriesInternational/videos/1348756665173483/",
+              "src": "https://vimeo.com/234136829",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on"
