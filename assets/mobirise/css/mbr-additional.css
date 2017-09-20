@@ -1338,13 +1338,13 @@ body {
   min-height: 100vh;
 }
 .cid-qvJvdnTRWh .navbar {
-  background: #ffffff;
+  background: #023038;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qvJvdnTRWh .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #023038;
 }
 .cid-qvJvdnTRWh a {
   font-style: normal;
@@ -1422,7 +1422,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qvJvdnTRWh .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #023038;
   display: none;
   position: absolute;
   min-width: 5rem;
