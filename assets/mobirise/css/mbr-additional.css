@@ -2137,7 +2137,7 @@ body {
 .cid-qvKlN2NC7f {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-qvKlN2NC7f .mbr-iconfont {
   font-size: 48px;
@@ -2227,6 +2227,15 @@ body {
   .cid-qvKlN2NC7f .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
+}
+.cid-qvKlN2NC7f H2 {
+  color: #ffffff;
+}
+.cid-qvKlN2NC7f H4 {
+  color: #ffffff;
+}
+.cid-qvKlN2NC7f H5 {
+  color: #ffffff;
 }
 .cid-qvKlZj2yuF {
   padding-top: 45px;
